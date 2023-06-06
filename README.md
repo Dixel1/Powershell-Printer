@@ -17,5 +17,8 @@ In this repository you will find everything to print documents in a folder just 
 
 ![image](https://github.com/Sarvagon/Powershell_Printer/assets/63664894/24992a25-c1dc-4fd0-a4b3-98371ad1620b)
 
-4) Go back in "Impression" folder and run Print.bat (no administrator mode required)
-5) ENJOY !
+4) Go back in "Impression" folder and run Print.bat (no administrator mode required).
+
+![image](https://github.com/Sarvagon/Powershell_Printer/assets/63664894/15e1d032-49d4-4a81-9494-fde3d08ac4c7)
+
+6) ENJOY !
