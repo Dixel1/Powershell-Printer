@@ -1,0 +1,1 @@
+Get-ChildItem "C:\Users\$env:username\Desktop\Impression\Print" | Sort-Object -Property FullName | ForEach-Object {start-process $_.FullName -Verb Print}
