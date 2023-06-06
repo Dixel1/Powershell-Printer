@@ -3,7 +3,7 @@ In this repository you will find everything to print documents in a folder just 
 
 ## INSTRUCTIONS: 
 
-1) Download the .zip or .7z file (you will find them in the "release" section) and place it on your Desktop.
+1) Download the .zip or .7z file (you will find them in the "releases" section) and place it on your Desktop.
 2) Extract the content of the archive by following these steps (in my case I'm using NanaZip, an OpenSource fork of 7-Zip).
   - Right clic < NanaZip (or 7-Zip, ...) < Extract to "Impression\"
 
